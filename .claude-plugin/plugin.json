@@ -1,0 +1,5 @@
+{
+  "name": "screen-reader-headings",
+  "version": "0.1.0",
+  "description": "Puts headings on Claude's questions and end-of-reply summaries so screen reader heading navigation can reach them."
+}

@@ -1,0 +1,5 @@
+{
+  "name": "screen-reader-headings",
+  "owner": { "name": "eliezerandres11-wq" },
+  "plugins": [{ "name": "screen-reader-headings", "source": "./" }]
+}
